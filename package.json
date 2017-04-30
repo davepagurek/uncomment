@@ -1,0 +1,19 @@
+{
+  "name": "uncomment",
+  "version": "1.0.0",
+  "description": "Removes comments from JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "uncomment": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "comment-json": "^1.1.3"
+  }
+}
