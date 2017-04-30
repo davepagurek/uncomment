@@ -1,5 +1,5 @@
 {
-  "name": "uncomment",
+  "name": "uncomment-json",
   "version": "1.0.0",
   "description": "Removes comments from JSON",
   "main": "index.js",
